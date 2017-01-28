@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import remark from 'remark';
 import reactRenderer from 'remark-react';
-import './App.css';
 
 class App extends Component {
 
